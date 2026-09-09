@@ -1,0 +1,10 @@
+{
+  "title": "The Long Way to a Small Joy",
+  "composer": "Original composition for Bas Ek Chai",
+  "bpm": 96,
+  "tonicMidi": 52,
+  "melody": [12, null, 16, 19, 21, null, 19, 16, 14, null, 12, null, 7, null, 9, 11, 12, null, 16, null, 19, 21, 24, null, 21, null, 19, 16, 14, null, 12, null, 9, null, 12, 14, 16, null, 14, 12, 7, null, 9, null, 11, 12, 14, null, 16, null, 19, null, 14, 12, 11, null, 9, null, 7, 9, 12, null, null, null],
+  "bass": [0, 0, -5, -5, -3, -3, -5, -5],
+  "chords": [[0, 7, 12], [-5, 2, 7], [-3, 4, 9], [-5, 2, 11]],
+  "note": "Original pentatonic-leaning melody, triangle plucks, soft sine bass, filtered noise percussion. No sampled or licensed third-party music. Runtime synthesis is in src/services/audio.ts; master export in assets-source/export_music.py."
+}

@@ -1,0 +1,6 @@
+* text=auto eol=lf
+docs/Bas-Ek-Chai-PRD.md -text whitespace=-trailing-space
+licenses/Kenney-City.txt -text whitespace=-trailing-space
+*.png -text
+*.webp -text
+*.wav -text

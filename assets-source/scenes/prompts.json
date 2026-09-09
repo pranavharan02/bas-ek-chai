@@ -1,0 +1,18 @@
+{
+  "method": "OpenAI built-in image generation",
+  "generatedDate": "2026-09-09",
+  "office": {
+    "source": "office-original.png",
+    "runtime": "../../public/assets/office.webp",
+    "prompt": "Detailed 16-bit Indian neighbourhood at 6:30pm, office/laptop/clock left, auto rickshaw, balconies, saffron sunset, teal street, plum shadows, open center/right for menu, no text or UI.",
+    "dimensions": [1536, 1024],
+    "export": "Lossless WebP; no semantic edits. Runtime title and animated character are separate."
+  },
+  "chai": {
+    "source": "chai-original.png",
+    "runtime": "../../public/assets/chai.webp",
+    "prompt": "Cohesive pixel-art nighttime chai stall, hanging bulbs, steaming kettle, glasses, bench and bicycles, sleepy street, open foreground for runtime hero, no people, text or UI.",
+    "dimensions": [1536, 1024],
+    "export": "Lossless WebP; no semantic edits. Runtime character and ending animation are separate."
+  }
+}

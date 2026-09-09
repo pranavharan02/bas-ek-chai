@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-09T04:17:53.859Z",
+  "runnerCases": 50000,
+  "crossingCases": 50000,
+  "exactCampaignRoutes": 200,
+  "exactEndlessCrossingRoutes": 50000,
+  "runnerPatternJoins": 144,
+  "adversarialRejections": 2,
+  "seconds": 76,
+  "limitation": "Finite corpus and conservative routes establish tested reachability, not universal procedural correctness or human playtest results. Runner routes retain empty lanes and validate time-to-reach plus reaction margin."
+}

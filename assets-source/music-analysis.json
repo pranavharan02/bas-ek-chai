@@ -1,0 +1,9 @@
+{
+  "sampleRate": 22050,
+  "durationSeconds": 10.0,
+  "peak": 0.2317271891993383,
+  "rms": 0.03125414611265555,
+  "clippedSamples": 0,
+  "loopBoundaryDelta": 0.0,
+  "listeningStatus": "Headphone, phone-speaker and ten-seam listening tests pending; numerical checks are not listening evidence."
+}

@@ -1,0 +1,218 @@
+{
+  "0-idle-up": {
+    "start": 0,
+    "end": 5
+  },
+  "0-idle-down": {
+    "start": 6,
+    "end": 11
+  },
+  "0-idle-left": {
+    "start": 12,
+    "end": 17
+  },
+  "0-idle-right": {
+    "start": 18,
+    "end": 23
+  },
+  "0-walk-up": {
+    "start": 24,
+    "end": 29
+  },
+  "0-walk-down": {
+    "start": 30,
+    "end": 35
+  },
+  "0-walk-left": {
+    "start": 36,
+    "end": 41
+  },
+  "0-walk-right": {
+    "start": 42,
+    "end": 47
+  },
+  "0-hop-up": {
+    "start": 48,
+    "end": 53
+  },
+  "0-hop-down": {
+    "start": 54,
+    "end": 59
+  },
+  "0-hop-left": {
+    "start": 60,
+    "end": 65
+  },
+  "0-hop-right": {
+    "start": 66,
+    "end": 71
+  },
+  "0-run": {
+    "start": 72,
+    "end": 77
+  },
+  "0-jump": {
+    "start": 78,
+    "end": 83
+  },
+  "0-slide": {
+    "start": 84,
+    "end": 89
+  },
+  "0-stumble": {
+    "start": 90,
+    "end": 95
+  },
+  "0-cup": {
+    "start": 96,
+    "end": 101
+  },
+  "0-sutta": {
+    "start": 102,
+    "end": 107
+  },
+  "1-idle-up": {
+    "start": 108,
+    "end": 113
+  },
+  "1-idle-down": {
+    "start": 114,
+    "end": 119
+  },
+  "1-idle-left": {
+    "start": 120,
+    "end": 125
+  },
+  "1-idle-right": {
+    "start": 126,
+    "end": 131
+  },
+  "1-walk-up": {
+    "start": 132,
+    "end": 137
+  },
+  "1-walk-down": {
+    "start": 138,
+    "end": 143
+  },
+  "1-walk-left": {
+    "start": 144,
+    "end": 149
+  },
+  "1-walk-right": {
+    "start": 150,
+    "end": 155
+  },
+  "1-hop-up": {
+    "start": 156,
+    "end": 161
+  },
+  "1-hop-down": {
+    "start": 162,
+    "end": 167
+  },
+  "1-hop-left": {
+    "start": 168,
+    "end": 173
+  },
+  "1-hop-right": {
+    "start": 174,
+    "end": 179
+  },
+  "1-run": {
+    "start": 180,
+    "end": 185
+  },
+  "1-jump": {
+    "start": 186,
+    "end": 191
+  },
+  "1-slide": {
+    "start": 192,
+    "end": 197
+  },
+  "1-stumble": {
+    "start": 198,
+    "end": 203
+  },
+  "1-cup": {
+    "start": 204,
+    "end": 209
+  },
+  "1-sutta": {
+    "start": 210,
+    "end": 215
+  },
+  "2-idle-up": {
+    "start": 216,
+    "end": 221
+  },
+  "2-idle-down": {
+    "start": 222,
+    "end": 227
+  },
+  "2-idle-left": {
+    "start": 228,
+    "end": 233
+  },
+  "2-idle-right": {
+    "start": 234,
+    "end": 239
+  },
+  "2-walk-up": {
+    "start": 240,
+    "end": 245
+  },
+  "2-walk-down": {
+    "start": 246,
+    "end": 251
+  },
+  "2-walk-left": {
+    "start": 252,
+    "end": 257
+  },
+  "2-walk-right": {
+    "start": 258,
+    "end": 263
+  },
+  "2-hop-up": {
+    "start": 264,
+    "end": 269
+  },
+  "2-hop-down": {
+    "start": 270,
+    "end": 275
+  },
+  "2-hop-left": {
+    "start": 276,
+    "end": 281
+  },
+  "2-hop-right": {
+    "start": 282,
+    "end": 287
+  },
+  "2-run": {
+    "start": 288,
+    "end": 293
+  },
+  "2-jump": {
+    "start": 294,
+    "end": 299
+  },
+  "2-slide": {
+    "start": 300,
+    "end": 305
+  },
+  "2-stumble": {
+    "start": 306,
+    "end": 311
+  },
+  "2-cup": {
+    "start": 312,
+    "end": 317
+  },
+  "2-sutta": {
+    "start": 318,
+    "end": 323
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-09",
+  "origin": "http://localhost:3000",
+  "tools": ["read_game_status", "start_game", "pause_game", "return_home"],
+  "registrationAndSchemas": "verified",
+  "validCalls": {"startRush": "tutorial", "rushRenderer": true, "pause": "paused", "returnHome": "home", "startCrossing": "tutorial", "crossingRenderer": true},
+  "invalidInputs": "All four tools rejected extra fields or invalid mode; crossing state preserved.",
+  "finalState": "home",
+  "scope": "Focused structured-control contract check only; not visual, touch, audio or full gameplay certification."
+}

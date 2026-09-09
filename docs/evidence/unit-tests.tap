@@ -1,0 +1,164 @@
+
+> bas-ek-chai@1.0.0 test
+> tsx --test tests/*.test.ts
+
+TAP version 13
+# Subtest: C01/C03: discrete hops, safe boundaries, expiring buffer and no repeated row points
+ok 1 - C01/C03: discrete hops, safe boundaries, expiring buffer and no repeated row points
+  ---
+  duration_ms: 2.3228
+  type: 'test'
+  ...
+# Subtest: C02: waiting on a safe stop has no death or forced movement
+ok 2 - C02: waiting on a safe stop has no death or forced movement
+  ---
+  duration_ms: 4.3767
+  type: 'test'
+  ...
+# Subtest: C03: blocking actors reject a destination without pushing the hero
+ok 3 - C03: blocking actors reject a destination without pushing the hero
+  ---
+  duration_ms: 0.256
+  type: 'test'
+  ...
+# Subtest: C04: relative swept collision catches a fast vehicle crossing between endpoints
+ok 4 - C04: relative swept collision catches a fast vehicle crossing between endpoints
+  ---
+  duration_ms: 0.2751
+  type: 'test'
+  ...
+# Subtest: C04/C08: a real car contact terminates before hop score or pickups
+ok 5 - C04/C08: a real car contact terminates before hop score or pickups
+  ---
+  duration_ms: 0.6119
+  type: 'test'
+  ...
+# Subtest: Rail warning rejects entry and leaves time for a committed hop to exit
+ok 6 - Rail warning rejects entry and leaves time for a committed hop to exit
+  ---
+  duration_ms: 1.1838
+  type: 'test'
+  ...
+# Subtest: C08: a token reached in the same tick as lethal traffic is not awarded
+ok 7 - C08: a token reached in the same tick as lethal traffic is not awarded
+  ---
+  duration_ms: 0.583
+  type: 'test'
+  ...
+# Subtest: C06/C07: checkpoint and score bank atomically and once
+ok 8 - C06/C07: checkpoint and score bank atomically and once
+  ---
+  duration_ms: 1.0169
+  type: 'test'
+  ...
+# Subtest: C09/E01/E02: both finales unlock identically and preserve separate best records
+ok 9 - C09/E01/E02: both finales unlock identically and preserve separate best records
+  ---
+  duration_ms: 0.7892
+  type: 'test'
+  ...
+# Subtest: C10: endless boundary is a safe visible row and rejects retreat
+ok 10 - C10: endless boundary is a safe visible row and rejects retreat
+  ---
+  duration_ms: 0.4944
+  type: 'test'
+  ...
+# Subtest: R01/R02: runner available immediately; lane change follows a 10-tick path
+ok 11 - R01/R02: runner available immediately; lane change follows a 10-tick path
+  ---
+  duration_ms: 0.5489
+  type: 'test'
+  ...
+# Subtest: R02: lane changes cannot teleport through a blocker
+ok 12 - R02: lane changes cannot teleport through a blocker
+  ---
+  duration_ms: 0.2208
+  type: 'test'
+  ...
+# Subtest: R03: low crate clearance succeeds only in the jump clearance interval
+ok 13 - R03: low crate clearance succeeds only in the jump clearance interval
+  ---
+  duration_ms: 0.148
+  type: 'test'
+  ...
+# Subtest: R04/R05: slide works, airborne slide is ignored, recovery prevents double jump
+ok 14 - R04/R05: slide works, airborne slide is ignored, recovery prevents double jump
+  ---
+  duration_ms: 0.1618
+  type: 'test'
+  ...
+# Subtest: R06: speed cap and minimum warning distance remain compatible
+ok 15 - R06: speed cap and minimum warning distance remain compatible
+  ---
+  duration_ms: 0.1
+  type: 'test'
+  ...
+# Subtest: R07/Q03: impossible and unreachable patterns are rejected
+ok 16 - R07/Q03: impossible and unreachable patterns are rejected
+  ---
+  duration_ms: 0.6526
+  type: 'test'
+  ...
+# Subtest: R08/Q05: paused/countdown frames freeze the world and long stalls advance zero ticks
+ok 17 - R08/Q05: paused/countdown frames freeze the world and long stalls advance zero ticks
+  ---
+  duration_ms: 0.4878
+  type: 'test'
+  ...
+# Subtest: R09/R10: contact ends only the player run and retry is clean
+ok 18 - R09/R10: contact ends only the player run and retry is clean
+  ---
+  duration_ms: 0.1653
+  type: 'test'
+  ...
+# Subtest: Q01/Q02: seeded replay is deterministic and independent of view settings
+ok 19 - Q01/Q02: seeded replay is deterministic and independent of view settings
+  ---
+  duration_ms: 9.583
+  type: 'test'
+  ...
+# Subtest: Q04: malformed saves, unknown schema, invalid checkpoint IDs, duplicate keys and corrupt ranges recover
+ok 20 - Q04: malformed saves, unknown schema, invalid checkpoint IDs, duplicate keys and corrupt ranges recover
+  ---
+  duration_ms: 0.4676
+  type: 'test'
+  ...
+# Subtest: Q04: denied storage is a playable memory-only fallback
+ok 21 - Q04: denied storage is a playable memory-only fallback
+  ---
+  duration_ms: 0.4804
+  type: 'test'
+  ...
+# Subtest: Q06: assisted clock is 75 percent while cosmetic preferences cannot change tick count
+ok 22 - Q06: assisted clock is 75 percent while cosmetic preferences cannot change tick count
+  ---
+  duration_ms: 0.326
+  type: 'test'
+  ...
+# Subtest: Q06: standard and assisted scores remain separate
+ok 23 - Q06: standard and assisted scores remain separate
+  ---
+  duration_ms: 0.1141
+  type: 'test'
+  ...
+# Subtest: Q07: 20 minutes of simulated endless runner has bounded actors and pickup IDs
+ok 24 - Q07: 20 minutes of simulated endless runner has bounded actors and pickup IDs
+  ---
+  duration_ms: 55.48
+  type: 'test'
+  ...
+# Subtest: C05: exact collision-aware routes complete all five campaign stages
+ok 25 - C05: exact collision-aware routes complete all five campaign stages
+  ---
+  duration_ms: 41.6323
+  type: 'test'
+  ...
+1..25
+# tests 25
+# suites 0
+# pass 25
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 426.1675
