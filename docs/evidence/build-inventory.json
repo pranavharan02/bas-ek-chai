@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-09T04:32:16.224Z",
+  "date": "2026-09-09T04:36:21.160Z",
   "fileCount": 59,
-  "totalBytes": 6242160,
+  "totalBytes": 6242166,
   "files": [
     {
       "path": "dist/client/.vite/manifest.json",
       "bytes": 2001,
-      "sha256": "60987c08af3a42c08c4c74fe122fbddf2eee8c0cb7fcddb4b977974c6449b1be"
+      "sha256": "13352c114819899438c372a47855ca26c69e2b73294726bf54ed362adb469f56"
     },
     {
       "path": "dist/client/404.html",
       "bytes": 8432,
-      "sha256": "ad5c2c9cb9fce3dc02237b4de4c3b6587ed4eb4cdf86631b0a85a88239214550"
+      "sha256": "e647a7454af33eafafab13e1e40f6cf3dfc9cb27680dc2640a853ba989247713"
     },
     {
       "path": "dist/client/assets/animations.json",
@@ -131,22 +131,32 @@
     {
       "path": "dist/client/index.html",
       "bytes": 9693,
-      "sha256": "3841f118b72f8b981e717b7d7b558a18aacc1f6a078b52a7fb2e08dad7f7ebf4"
+      "sha256": "a0cbf48fcd9aaf05f013e7c5f10f4adb103d8752a8eda84c7d6d8493059866ab"
     },
     {
       "path": "dist/client/index.txt",
       "bytes": 3577,
-      "sha256": "f9c7b35ecc41b34b1426197de888e11f5f40119e5eacbddfae16f54ac634555e"
+      "sha256": "e229f00a3369e396a571a6af5166f758a3ecd55ce372fbc6b63e96af368fa275"
     },
     {
       "path": "dist/client/vinext-client-entry-manifest.json",
       "bytes": 65,
-      "sha256": "8349c815a170a9fc9ff6ec24a674fc4813c03ff57f5197febce98174ad5c2a64"
+      "sha256": "328c364e770e8f316529e5580fb913bc923441a32a408e5375255350212ab911"
     },
     {
-      "path": "dist/client/_next/static/chunks/CommuteApp-XTSKIrlF.js",
-      "bytes": 111943,
-      "sha256": "66341682412bd9d50de6068f2124f8853862181e5088011d91740ba38c795c33"
+      "path": "dist/client/_next/static/2b206cdd-718e-479b-b9a8-23d3cb2f92f2/_buildManifest.js",
+      "bytes": 159,
+      "sha256": "47f02b34be6dc481257b6efce4c19e19111f37ef5c437f8ffed44f0da97fa9bb"
+    },
+    {
+      "path": "dist/client/_next/static/2b206cdd-718e-479b-b9a8-23d3cb2f92f2/_ssgManifest.js",
+      "bytes": 76,
+      "sha256": "653f3e53e89b4f8548ff86c19e92bb3c6b84b6be7485a320b1e00893ed877479"
+    },
+    {
+      "path": "dist/client/_next/static/chunks/CommuteApp-BAXPfWBw.js",
+      "bytes": 111949,
+      "sha256": "af66fa24084beac3a73ad32fa0c1563ac6c4ad0d50dbc7f115c282648f4c8333"
     },
     {
       "path": "dist/client/_next/static/chunks/framework-DTZGTDtF.js",
@@ -154,14 +164,14 @@
       "sha256": "2a1edf81f32a49b1eacafc3546b371bca024c82a9191836e274d90890212e9df"
     },
     {
-      "path": "dist/client/_next/static/chunks/index-BYLYf6vr.js",
+      "path": "dist/client/_next/static/chunks/index-TbcBBMjx.js",
       "bytes": 109280,
-      "sha256": "b164af47a4f4d379e628cef0c464360057e6eabcf430dd6d654f90b2657325ea"
+      "sha256": "d6fde88469db0d1fb91c8060597b220453cf788df747a9ccc5622b6465483e91"
     },
     {
-      "path": "dist/client/_next/static/chunks/layout-segment-context-Bk0GFTVa.js",
+      "path": "dist/client/_next/static/chunks/layout-segment-context-BrOjVTgv.js",
       "bytes": 496,
-      "sha256": "0e939facd64187c290b2d56e7d247a0d3e7c86cdd3bec27039cbe969d26e8d46"
+      "sha256": "e80a8de7176c6dd6aea204d0cc4f052020b831e37b17feb3c4286ae0f95d0497"
     },
     {
       "path": "dist/client/_next/static/chunks/rolldown-runtime-hePW80VL.js",
@@ -169,29 +179,19 @@
       "sha256": "580ad8c58061a4dde99bde0a56905e382f0568516ee2f5b84dbfb52085709021"
     },
     {
-      "path": "dist/client/_next/static/chunks/view-dggE9eB_.js",
+      "path": "dist/client/_next/static/chunks/view-DJKiI17Q.js",
       "bytes": 1382202,
-      "sha256": "f2a749206556732f3c7b262e5b0eb3cb01ed7d904e828d5ef2f0a625011fe321"
+      "sha256": "16050662afc6bf59112a78f2abd90ebac06a47b9cc6c6f64f1e484f18bf47bd9"
     },
     {
-      "path": "dist/client/_next/static/chunks/vinext-TKqWTPSH.js",
+      "path": "dist/client/_next/static/chunks/vinext-DqrkJwgV.js",
       "bytes": 110299,
-      "sha256": "48506e1d8a3c7c5dc3d9a4770521e7c14eaca1c630c835ad902033f19f757fd3"
+      "sha256": "dabff2a188f98cf10bc0db18e29943ed4f09e840c36e3fd17f6229c6b2587aac"
     },
     {
       "path": "dist/client/_next/static/css/index.BKu1_CZ5.css",
       "bytes": 170914,
       "sha256": "e7eb2c99a7fa19b5af5fbe224eb0e5e207b773edc895f6b81b93570ea357b420"
-    },
-    {
-      "path": "dist/client/_next/static/f4c4c116-0bbf-4603-8f3c-1c96010f60f8/_buildManifest.js",
-      "bytes": 159,
-      "sha256": "47f02b34be6dc481257b6efce4c19e19111f37ef5c437f8ffed44f0da97fa9bb"
-    },
-    {
-      "path": "dist/client/_next/static/f4c4c116-0bbf-4603-8f3c-1c96010f60f8/_ssgManifest.js",
-      "bytes": 76,
-      "sha256": "653f3e53e89b4f8548ff86c19e92bb3c6b84b6be7485a320b1e00893ed877479"
     },
     {
       "path": "dist/client/_next/static/media/pixelify-sans-cyrillic-500-normal.CR9SIKMr.woff",

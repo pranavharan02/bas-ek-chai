@@ -4,3 +4,5 @@ licenses/Kenney-City.txt -text whitespace=-trailing-space
 *.png -text
 *.webp -text
 *.wav -text
+public/assets/* -text
+public/favicon.svg -text
